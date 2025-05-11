@@ -48,5 +48,4 @@ Ensure `fashion_mnist_rgb_fast.h5` and `class_names.pkl` are in the same directo
 ## 📄 License
 This project is provided for educational purposes. Modify and use it at your own discretion.
 
-## 🙋‍♂️ Author
-Made by [Your Name]. Contributions welcome!
+
