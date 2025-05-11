@@ -45,7 +45,6 @@ python ap-2.py
 ```
 Ensure `fashion_mnist_rgb_fast.h5` and `class_names.pkl` are in the same directory as `ap-2.py`.
 
-## 📄 License
-This project is provided for educational purposes. Modify and use it at your own discretion.
+
 
 
