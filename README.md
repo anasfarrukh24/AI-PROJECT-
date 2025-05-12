@@ -11,7 +11,7 @@ This project builds and uses a Convolutional Neural Network (CNN) to classify im
 
 ```
 ai project/
-├── Untitled24.ipynb           # Model training & evaluation notebook
+├── AI_project.ipynb           # Model training & evaluation notebook
 ├── ap-2.py                    # Inference script for predictions
 ├── fashion_mnist_rgb_fast.h5 # Trained CNN model
 ├── class_names.pkl            # Class label names (pickled)
